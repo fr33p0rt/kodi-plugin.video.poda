@@ -1,0 +1,19 @@
+<strings>
+    <string id="30001">Pairing / Cookies</string>
+    <string id="30002">Filter</string>
+    <string id="30003">Special</string>
+
+    <string id="30012">Pair code</string>
+
+    <string id="30010">PHPSESSID</string>
+    <string id="30011">device_token</string>
+
+    <string id="30050">Filter type</string>
+    <string id="30051">suppress filter items</string>
+    <string id="30052">off</string>
+    <string id="30053">show filter items only</string>
+
+    <string id="30060">Filter items (comma separated)</string>
+
+    <string id="30100">Validate SSL certificate</string>
+</strings>

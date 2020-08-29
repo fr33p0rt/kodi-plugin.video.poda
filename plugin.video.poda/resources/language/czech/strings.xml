@@ -1,0 +1,19 @@
+<strings>
+    <string id="30001">Párování a cookies</string>
+    <string id="30002">Filtrování</string>
+    <string id="30003">Speciální</string>
+
+    <string id="30012">Párovácí kód</string>
+
+    <string id="30010">PHPSESSID</string>
+    <string id="30011">device_token</string>
+
+    <string id="30050">Způsob filtrování</string>
+    <string id="30051">potlačit položky filtru</string>
+    <string id="30052">vypnuto</string>
+    <string id="30053">zobrazit jen položky filtru</string>
+
+    <string id="30060">Položky filtru (oddělené čárkou)</string>
+
+    <string id="30100">Ověřovat SSL certifikát</string>
+</strings>

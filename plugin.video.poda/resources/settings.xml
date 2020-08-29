@@ -1,0 +1,15 @@
+<settings>
+    <category label="30001">
+        <setting id="pair_code" type="text" label="30012" />
+            <setting type="sep"/>
+        <setting id="PHPSESSID" type="text" label="30010" />
+        <setting id="device_token" type="text" label="30011" />
+    </category>
+    <category label="30002">
+        <setting id="filter" type="enum" label="30050" lvalues="30051|30052|30053" default="0" />
+        <setting label="30060" type="text" id="filter_items" default="*Šlágr*,*Mňau*" enable="!eq(-1,1)" />
+    </category>
+    <category label="30003">
+        <setting id="verify_ssl" type="bool" label="30100" default="true" />
+    </category>
+</settings>
